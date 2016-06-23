@@ -1,2 +1,2 @@
-# JavaTest1
-java learning test 1
+# 说明
+这只是java学习的练习项目，没有多少实际意义
